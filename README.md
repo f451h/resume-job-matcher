@@ -1,6 +1,6 @@
 # Resume vs Job Matcher
 
-Scores how well a resume fits a job description, shows exactly which required skills are there and which are missing, and uses an LLM (Llama 3.3 70B on Groq) to suggest stronger, job-specific bullet points.
+Scores how well a resume fits a job description, shows exactly which required skills are there and which are missing, and uses an LLM (GPT-OSS 120B on Groq) to suggest stronger, job-specific bullet points.
 
 ![App screenshot](images/screenshot.png)
 

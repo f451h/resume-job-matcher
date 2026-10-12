@@ -6,7 +6,7 @@ import os
 
 from .scoring import MatchResult
 
-DEFAULT_MODEL = "llama-3.3-70b-versatile"
+DEFAULT_MODEL = "openai/gpt-oss-120b"
 
 PROMPT = """You are an experienced technical recruiter reviewing a resume against a job description.
 A scoring system has already measured the overlap:
