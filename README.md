@@ -49,7 +49,7 @@ That's what a recruiter would conclude too: strong analytics background, not yet
 ## Quick start
 
 ```bash
-git clone https://github.com/Fasiuu/resume-job-matcher
+git clone https://github.com/f451h/resume-job-matcher
 cd resume-job-matcher
 pip install -r requirements.txt
 cp .env.example .env     # optional: add a free Groq key from console.groq.com
