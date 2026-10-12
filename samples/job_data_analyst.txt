@@ -1,0 +1,21 @@
+Senior Data Analyst - Lahore
+
+Join our analytics team to turn sales and customer data into decisions.
+
+Responsibilities
+- Own weekly and monthly business reporting
+- Build dashboards in Power BI for leadership
+- Run A/B tests and explain results to non-technical stakeholders
+- Write complex SQL queries against PostgreSQL and BigQuery
+
+Requirements
+- At least 3 years of experience in data analysis
+- Advanced SQL and Excel
+- Power BI or Tableau
+- Python (pandas) for analysis
+- Solid statistics and hypothesis testing
+- Strong communication and stakeholder management
+
+Preferred
+- Experience with dbt or Airflow
+- Retail or e-commerce background

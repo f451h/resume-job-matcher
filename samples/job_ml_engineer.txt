@@ -1,0 +1,23 @@
+Machine Learning Engineer - Karachi (Hybrid)
+
+We're looking for an ML engineer to take models from notebooks to production and to help build our
+LLM-powered features.
+
+What you'll do
+- Build, deploy and monitor machine learning models used by millions of customers
+- Develop retrieval-augmented generation (RAG) features using LLMs and vector databases
+- Write clean, tested Python services and REST APIs (FastAPI)
+- Work with data engineers on reliable data pipelines
+
+Requirements
+- 2+ years of experience in machine learning or data science
+- Strong Python and SQL
+- Experience with scikit-learn and at least one deep learning framework (PyTorch or TensorFlow)
+- Experience deploying models: Docker, CI/CD, model serving
+- Familiarity with LLMs, prompt engineering and RAG
+- Good communication and teamwork
+
+Nice to have
+- Kubernetes or AWS experience
+- LangChain or LlamaIndex
+- Experience with fine-tuning (LoRA)

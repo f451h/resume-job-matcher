@@ -1,0 +1,29 @@
+AYESHA RAZA
+Data Scientist | Lahore, Pakistan | ayesha.raza@example.com
+
+SUMMARY
+Data scientist with 5 years of experience building predictive models and dashboards for retail and fintech
+clients. Comfortable taking a problem from messy data to a deployed model.
+
+EXPERIENCE
+Data Scientist, Shopline Retail (Lahore)                                   Mar 2023 - Present
+- Built a demand forecasting model in Python (LightGBM) for 400 stores, reducing stock-outs during Ramadan
+- Created customer segmentation with K-Means and RFM features used by the marketing team for campaigns
+- Wrote SQL pipelines in PostgreSQL and scheduled them with Airflow
+- Presented monthly insights to stakeholders through Power BI dashboards
+
+Junior Data Analyst, PayEase Fintech (Karachi)                              Jun 2021 - Feb 2023
+- Analysed transaction data with pandas and NumPy to flag unusual payment patterns
+- Built a logistic regression credit scoring model with scikit-learn
+- Automated weekly Excel reports, saving the team around 6 hours a week
+
+PROJECTS
+- Chatbot for internal policy documents using LangChain and OpenAI API (prototype)
+- Image classification of product photos with TensorFlow and Keras
+
+SKILLS
+Python, SQL, pandas, NumPy, scikit-learn, LightGBM, XGBoost, TensorFlow, Keras, Power BI, Excel, Airflow,
+PostgreSQL, Git, statistics, A/B testing, data visualization (matplotlib, seaborn)
+
+EDUCATION
+BS Computer Science, LUMS, 2017 - 2021
